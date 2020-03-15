@@ -585,6 +585,12 @@ footer .footer-copyright {
     text-align: center;
   }
 
+  .arrow{
+    margin-top: 0px;
+ 
+
+  }
+
   #about .col-md-8 img {
     padding-right: 0px;
   }
