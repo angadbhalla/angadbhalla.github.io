@@ -587,8 +587,10 @@ footer .footer-copyright {
 
   .arrow{
     margin-top: 0px;
- 
+   }
 
+  .bio{
+    font-size:22px;
   }
 
   #about .col-md-8 img {
