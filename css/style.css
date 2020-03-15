@@ -274,10 +274,10 @@ a:hover, a:active, a:focus {
 }
 
 .arrow{
-    position: absolute;
+    position: relative;
     top: 65%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(0%,-50%);
 }
 .arrow span{
     display: block;
