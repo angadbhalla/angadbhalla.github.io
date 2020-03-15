@@ -106,6 +106,7 @@ a:hover, a:active, a:focus {
   position: relative;
   padding-bottom: 62px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .section-title h3 {
