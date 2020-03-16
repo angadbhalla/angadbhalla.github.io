@@ -373,9 +373,11 @@ a:hover, a:active, a:focus {
 
 }
 
+
+
 #portfolio .portfolio-thumb .portfolio-overlay {
   position: absolute;
-  background: #ffcf32;
+  background: #000000;
   color: #FFFFFF;
   top: 0;
   left: 0;
@@ -387,7 +389,11 @@ a:hover, a:active, a:focus {
   vertical-align: top;
   opacity: 0;
   transition: all 0.4s ease-in-out;
+
+
 }
+
+
 
 #portfolio .portfolio-item {
     position: absolute;
@@ -398,8 +404,10 @@ a:hover, a:active, a:focus {
           transform:translate(-50%,-50%);
 }
 
+
 #portfolio .portfolio-thumb:hover .portfolio-overlay {
   opacity: 0.9
+
 }
 
 #portfolio .text-center {
