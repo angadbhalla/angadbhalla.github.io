@@ -121,7 +121,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 .preloader {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
