@@ -318,6 +318,15 @@ a:hover, a:active, a:focus {
   font-style: normal;
 }
 
+.shakashake:hover {
+  
+  -webkit-transform: rotate(40deg);
+          transform: rotate(40deg);
+}
+
+
+}
+
 /*---------------------------------------
    About section              
 -----------------------------------------*/
