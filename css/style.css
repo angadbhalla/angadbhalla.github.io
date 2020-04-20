@@ -513,8 +513,8 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-    background-color: #ffcf32;
-    border-top: 1px solid #ffcf32;
+    background-color: #000000;
+    border-top: 1px solid #000000;
     padding: 100px 0px;
     position: relative;
 }
@@ -524,11 +524,11 @@ footer .col-md-3 .fa {
 }
 
 footer a {
-  color: #000000;
+  color: #ffffff;
 }
 
 footer hr {
-  border-color: #000000;
+  border-color: #ffffff;
   margin-top: 42px;
   margin-bottom: 22px;
 }
